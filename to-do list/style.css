@@ -1,0 +1,69 @@
+/* /* .main{
+    width: 500px;
+    height: 700px;
+    background: aqua;
+    margin-left: 37%;
+} */
+form{
+    display: flex;
+    justify-content: center;
+}
+/* input{
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: transparent;
+}
+button{
+    background-color: black;
+    color: white;
+} */ 
+
+body{
+    background-color: rgb(173, 50, 173);
+}
+.main{
+    width: 400px;
+    min-height: 500px;
+    background-color: white;
+    margin-left: 30%;
+    border-radius: 10px;
+}
+.all{
+    display: flex;
+    justify-content: center;
+}
+.all a{
+    margin-right: 15px;
+    text-decoration: none;
+    color: rgba(31, 27, 27, 0.658);
+}
+
+.cl{
+    background-color: rgba(173, 69, 173, 0.753);
+    width: 120px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 2px;
+    margin-left: 20px;
+    font-size: 15px;
+    color: white;
+}
+
+ul li{
+    font-size: 20px;
+    margin-bottom: 20px;
+    list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
